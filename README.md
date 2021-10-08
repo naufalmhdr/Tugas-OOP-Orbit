@@ -1,3 +1,3 @@
 # Tugas-OOP-Orbit
 
-Proyek Latihan
+Project Latihan
